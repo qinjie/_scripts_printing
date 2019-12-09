@@ -1,0 +1,3 @@
+d:\_temp\PA22\CC37050725\S10186904PartB\app\src\main
+activity_second*.xml
+Second*Activity.java

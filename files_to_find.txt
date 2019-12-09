@@ -1,0 +1,1 @@
+*partb*\app\src\main	activity_main*.xml	Main*Activity.java	activity_second*.xml	Second*Activity.java
